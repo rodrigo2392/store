@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
           <h1 className="text-3xl font-bold md:underline">
-            Hello world!
+            Esta es la página de contacto
           </h1>
       </main>
     </>
